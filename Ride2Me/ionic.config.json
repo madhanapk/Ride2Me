@@ -1,7 +1,0 @@
-{
-  "name": "Ride2Me",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
